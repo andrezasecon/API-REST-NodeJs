@@ -1,0 +1,22 @@
+{
+  "name": "api-rest",
+  "version": "1.0.0",
+  "description": "Minha primeira API Rest",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/andrezasecon/API-REST-NodeJs.git"
+  },
+  "author": "Andreza Secon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrezasecon/API-REST-NodeJs/issues"
+  },
+  "homepage": "https://github.com/andrezasecon/API-REST-NodeJs#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
